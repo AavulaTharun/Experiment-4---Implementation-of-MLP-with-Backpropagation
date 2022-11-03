@@ -160,6 +160,10 @@ print(classification_report(y_test,predictions))
 
 <img width="464" alt="198822677-5622c729-35b6-4477-90c1-886b8063be05" src="https://user-images.githubusercontent.com/93427201/199649800-a74bb452-3f51-4c87-95cb-88325f9c61aa.png">
 
+<img width="450" alt="198822692-7090cc10-4e1d-4863-8057-b796bde78d23" src="https://user-images.githubusercontent.com/93427201/199654407-af092606-c8ab-4a62-bc15-5eb071132e6d.png">
+
+<img width="450" alt="198822692-7090cc10-4e1d-4863-8057-b796bde78d23" src="https://user-images.githubusercontent.com/93427201/199654434-07c5f9af-faa1-4d4d-a000-738976c4a4d0.png">
+
 <img width="527" alt="198822704-dc56cdeb-9f8a-4e4f-95df-ac6be544fcbb" src="https://user-images.githubusercontent.com/93427201/199649892-f26baec5-619d-425e-bfd0-54ce8277fe48.png">
 
 <img width="514" alt="198822713-61bf3cad-90cb-45fb-8889-9845a7db10ab" src="https://user-images.githubusercontent.com/93427201/199649919-00181428-ff0e-4151-a40f-356fdac6dc04.png">
